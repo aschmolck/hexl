@@ -1,0 +1,10 @@
+[package]
+name = "hexl"
+description = "Line based hex view, ASCII as fullwidth, rest as bytes"
+author = "Alexander Schmolck <a.schmolck+git@gmail.com>"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
